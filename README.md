@@ -33,8 +33,7 @@ In Claude Cowork, select a folder for your workspace (or create a new one called
 ### Step 2: Copy this entire prompt and send it to Claude:
 
 ```
-I want to set up the EA Operating System from this GitHub repo: https://github.com/[YOUR-ORG]/ea-operating-system
-
+I want to set up the EA Operating System from this GitHub repo: https://github.com/lamya-Work/EA-Support-OS
 Please:
 1. Clone the repo using git, then copy all the template files directly into the ROOT of my currently selected workspace folder (not into a subfolder — build the structure at the top level of my folder).
 
