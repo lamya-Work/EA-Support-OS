@@ -1,0 +1,39 @@
+# Logs
+logs/*.log
+*.log
+
+# Personal data - don't commit populated files
+ea-profile.md
+second-brain/*.md
+executive-operations/email-style.md
+executive-operations/stakeholder-intel.md
+executive-operations/rhythm-map.md
+executive-operations/meeting-standards.md
+
+# Output folders
+outbox/SOD/*
+!outbox/SOD/.gitkeep
+outbox/weekly/*
+!outbox/weekly/.gitkeep
+outbox/drafts/*
+!outbox/drafts/.gitkeep
+work-with-me/briefings/*
+!work-with-me/briefings/.gitkeep
+work-with-me/drafts/*
+!work-with-me/drafts/.gitkeep
+work-with-me/research/*
+!work-with-me/research/.gitkeep
+work-with-me/projects/*
+!work-with-me/projects/.gitkeep
+
+# Inbox files
+inbox/*
+!inbox/.gitkeep
+
+# OS files
+.DS_Store
+Icon
+Thumbs.db
+
+# Reference docs (optional - if you don't want to commit these)
+reference/*.docx
