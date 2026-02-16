@@ -237,7 +237,7 @@ Say **"build a skill"** and Claude will walk you through:
 
 ## What Makes This EA-Focused?
 
-Unlike executive-focused personal OS systems, this system is built from the **EA's perspective**:
+Unlike executive-focused personal OS systems, this system is built from the **EA's perspective**: 
 
 * **EA Profile (1st person)** - About YOU as the EA
 * **Executive Profile (3rd person)** - About WHO YOU SUPPORT
