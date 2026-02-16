@@ -249,7 +249,7 @@ This is an EA tool to make you more effective at supporting your executive.
 ---
 ## Credits
 
-Built by the team at **[Atlas Assistants](https://www.atlasassistants.com)**  — we develop systems and training that help Executive Assistants run structured, AI-supported executive operations.
+Built by the team at **[Atlas Assistants](http://executiveassistants.com/)**  — we develop systems and training that help Executive Assistants run structured, AI-supported executive operations.
 
 **Created by:** Lamya (EA to CEO) for the Atlas EA community
 
