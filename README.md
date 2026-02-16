@@ -235,29 +235,6 @@ Say **"build a skill"** and Claude will walk you through:
 
 ---
 
-## Sharing with Your Executive (Optional)
-
-Claude Cowork works from a local folder on your computer. If you want to share your workspace with your executive or team member, you can sync your local folder to a cloud platform.
-
-**How to set it up:**
-1. Create your `ea-cowork` folder locally (this is where Cowork will read/write files)
-2. Sync that folder to a cloud platform like Google Drive, Dropbox, or OneDrive
-3. Share the synced folder with your executive
-
-**What this enables:**
-* Your executive can see your daily briefings in `outbox/SOD/`
-* Your executive can drop files into `inbox/` for you to process
-* You can share delegation queues and project updates in real-time
-* Your second brain stays in sync across your workflow
-
-**Example with Google Drive:**
-1. Install Google Drive for Desktop
-2. Move your `ea-cowork` folder into your Google Drive folder (or create it there)
-3. In Google Drive, right-click the folder → Share → Add your executive's email
-4. Select the synced folder when starting Claude Cowork
-
----
-
 ## What Makes This EA-Focused?
 
 Unlike executive-focused personal OS systems, this system is built from the **EA's perspective**:
@@ -271,10 +248,3 @@ This is an EA tool to make you more effective at supporting your executive.
 
 ---
 
-## Credits
-
-Built by the team at **[Atlas Assistants](https://www.atlasassistants.com)** — we match executives with elite Executive Assistants trained on AI tools and systems to help executives operate more in their zone of genius.
-
-**Created by:** Lamya (EA to CEO) for the Atlas EA community
-
-For more tips on leveraging your EA skills with AI: **[Subscribe to our newsletter](https://atlas-executive.beehiiv.com/)**
