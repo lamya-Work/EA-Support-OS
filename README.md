@@ -20,7 +20,7 @@ This is an EA-focused "second brain" and operating system designed specifically 
 
 ## Requirements
 
-**Claude Cowork requires a paid Claude account** (Pro, Team, or Enterprise). Cowork is not available on the free tier.
+**Claude Cowork requires a paid Claude account** . 
 
 ---
 
