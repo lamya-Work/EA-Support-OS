@@ -247,4 +247,10 @@ Unlike executive-focused personal OS systems, this system is built from the **EA
 This is an EA tool to make you more effective at supporting your executive.
 
 ---
+## Credits
 
+Built by the team at **[Atlas Assistants](https://www.atlasassistants.com)**  — we develop systems and training that help Executive Assistants run structured, AI-supported executive operations.
+
+**Created by:** Lamya (EA to CEO) for the Atlas EA community
+
+For more tips on leveraging your EA skills with AI: **[Subscribe to our newsletter](https://future-ready-ea.beehiiv.com/)**
